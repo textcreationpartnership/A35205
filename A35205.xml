@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flowers strowed by the muses, against the coming of the most illustrious Infanta of Portugal, Catharina, Queen of England by John Crouch.</title>
+            <author>Crouch, John, fl. 1660-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35205</idno>
+            <idno type="STC">Wing C7298</idno>
+            <idno type="STC">ESTC R29668</idno>
+            <idno type="EEBO-CITATION">11191708</idno>
+            <idno type="OCLC">ocm 11191708</idno>
+            <idno type="VID">46633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35205)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Flowers strowed by the muses, against the coming of the most illustrious Infanta of Portugal, Catharina, Queen of England by John Crouch.</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Kirkman and Henry Marsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46633:1"/>
+            <pb facs="tcp:46633:1"/>
+            <p>FLOWERS Strovved by the MUSES, Againſt the coming of the moſt Illuſtrious Infanta of PORTUGAL <hi>Catharina</hi> Queen of ENGLAND.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <q xml:lang="lat">
+               <l>—Tibi lilia plenis</l>
+               <l>Ecce ferunt Nymphae calathis—</l>
+            </q>
+            <p>By <hi>John Crouch</hi> Gent.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Francis Kirkman</hi> and <hi>Henry Marſh</hi> at the <hi>Princes</hi> Arms in <hi>Chancery Lane,</hi> 1662.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:46633:2"/>
+            <pb facs="tcp:46633:2"/>
+            <head>TO THE RIGHT HONOURABLE <hi>Henry</hi> Marquis of <hi>DORCHESTER,</hi> Earl of <hi>Kingſton,</hi> Viſcount <hi>Newark,</hi> And one of his <hi>MAJETIES</hi> moſt Honourable Privy Councel.</head>
+            <opener>
+               <salute>May it pleaſe your Lordſhip,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He humble preſenter of this Poem (once your Lordſhips I <hi>Domeſtick,</hi> had almoſt ſaid your <hi>Favorit</hi>) is as well acquainted with your Lord<g ref="char:EOLhyphen"/>ſhips goodneſs, as your Lordſhip can be with his unworthineſs; and therefore ſtands more in need of <hi>Merit</hi> then <hi>Incouragement:</hi> How<g ref="char:EOLhyphen"/>ever his Subject (the greateſt and beſt of Prin<g ref="char:EOLhyphen"/>ces) will eaſily court your Lordſhip to the kindeſt Reception: Since his Majeſties Roy<g ref="char:EOLhyphen"/>all <hi>Spouſe</hi> is now become the <hi>care</hi> of the Prieſt, it is time She ſhould appear the <hi>Ioy</hi> of the Poet; and have Her <hi>Canticles</hi> as well as <hi>Prayrrs.</hi> My Lord the Authors preſumption in borrowing your name to adorn his Fronteſ<g ref="char:EOLhyphen"/>piece,
+<pb facs="tcp:46633:3"/>hach two honeſt and Honourable De<g ref="char:EOLhyphen"/>ſignes (to be improv'd by your Lordſhips Fa<g ref="char:EOLhyphen"/>vour) the one is an Ambition to proclaim his Alleigance by ſo great and glorious a <hi>Herald</hi> of all Honour, Vertue and Learning: by ſo Noble a <hi>Confeſſor</hi> of a <hi>Martyrd</hi> cauſe; which Your Wiſdome and Courage maintained to its laſt and longeſt breathing. <hi>Oxford</hi> (that Loyal Sphear of clouded <hi>Majeſty</hi>) may, without the uſe of <hi>Sophiſmes,</hi> vindicate your Lordſhs. un<g ref="char:EOLhyphen"/>tainted Reputation; whoſe <hi>early ſurrender</hi> you ſo ſtrenuouſly oppoſ'd. His other deſign (as innocent though not ſo honourable as the for<g ref="char:EOLhyphen"/>mer) is, to make the world a <hi>witneſs</hi> (too cor<g ref="char:EOLhyphen"/>rupt to be a <hi>Judge</hi>) how much <hi>Duty</hi> and <hi>Service</hi> is owing to your Lordſhip, from</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble Servant, <hi>JO. CROUCH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:46633:3"/>
+            <head>Upon the approach of the moſt Il<g ref="char:EOLhyphen"/>luſtrious Infanta of PORTUGAL, Queen of England</head>
+            <div type="prologue">
+               <head>A Prologue to the following Poem.</head>
+               <lg>
+                  <l>AFter ſuch <hi>Dire Scenes</hi> this <hi>Romantick</hi> Age</l>
+                  <l>Acted in <hi>England,</hi> on her publick ſtage;</l>
+                  <l>Viciſitudes the Sun nor Moon ere ſaw,</l>
+                  <l>Moving without the <hi>Circle</hi> of their Law;</l>
+                  <l>When <hi>faith</hi> rackt on the wheel, and ſcru'd too high,</l>
+                  <l>Suſpected <hi>ſence,</hi> grew jealous of the Eye:</l>
+                  <l>What can be ſtrange? poſterity may tell</l>
+                  <l>Some little wonders, no new <hi>miracle.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Time with <hi>expanded</hi> wings, has things reveald,</l>
+                  <l>Like the <hi>Sphears,</hi> glorious, but by clouds conceald;</l>
+                  <l>The Spheares thoſe <hi>plaſtick wheels,</hi> which Sages ſay,</l>
+                  <l>
+                     <hi>Inform</hi> us, as the Potter forms his clay:</l>
+                  <l>Rapt with whoſe motion, Ptolemys ſharpeſt ſpies</l>
+                  <l>Midſt bright <hi>Intelligences</hi> loſt their eyes,</l>
+                  <l>Though 'aſſiſted with auxiliary light</l>
+                  <l>Of Sun, Moon, Starrs; <hi>inlightued</hi> into Night.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:46633:4"/>
+                  <l>Dull Ignorance has ſtill a Gazer been,</l>
+                  <l>Of truths, not as <hi>Perplext,</hi> but not foreſeen;</l>
+                  <l>The People fear to be ſurpriſ'd with good,</l>
+                  <l>Traduce all Acts by them not underſtood;</l>
+                  <l>Which yet in wiſdomes ballance poyſ'd, are found,</l>
+                  <l>Full weight, and <hi>Fools Abſurdities</hi> prov'd ſound:</l>
+                  <l>Could popular Pride make good its bold appeal,</l>
+                  <l>Heaven nor the King ſhould have their Privy <hi>Seal</hi>
+                  </l>
+                  <l>Happy that man, who learnd in Natures Lawes,</l>
+                  <l>Admires th'Effect becauſe he knew the Cauſe!</l>
+                  <l>But Kings ſit in a higher <hi>Orbe,</hi> and ſo</l>
+                  <l>Diſcover <hi>Stars,</hi> not ſeen by us below;</l>
+                  <l>Act their cleer wills, and then a licenſe give,</l>
+                  <l>For curious Eyes, to uſe their <hi>Perſpective.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="body_of_poem">
+               <head>The Poem.</head>
+               <lg>
+                  <l>A Match with Portugal? Good news but ſtrange!</l>
+                  <l>Beleive me tis a Royal <hi>New Exchange!</hi>
+                  </l>
+                  <l>(We once (affaires ſo inauſpicious ſtood)</l>
+                  <l>Mingled in ſlaughters, now in <hi>kinder blood.</hi>
+                  </l>
+                  <l>Heaven that pacifick Throne, <hi>ſerenely</hi> wiſe,</l>
+                  <l>Makes two ſtrange Nations ſtrangely ſympathize!</l>
+                  <l>
+                     <pb n="7" facs="tcp:46633:4"/>
+(One lately raviſht from the <hi>Eagles</hi> claws,)</l>
+                  <l>(One later, from a <hi>Bears</hi> untoward Pawes.)<note place="margin">cromwel</note>
+                  </l>
+                  <l>Link not in <hi>League</hi> but <hi>Love,</hi> joyne Hearts and Hands;</l>
+                  <l>
+                     <hi>Thames</hi> ſylver ſtreams, with <hi>Tagus</hi> golden ſands.</l>
+               </lg>
+               <lg>
+                  <l>Eaſt, Weſt, North, South, (ſo oppoſite) may ſhare</l>
+                  <l>In tempers, mixe <hi>affections,</hi> though not <hi>Aire,</hi>
+                  </l>
+                  <l>If in this vaſt bulk of the World there be</l>
+                  <l>A <hi>Forme</hi> or <hi>Soul</hi> doubtleſs tis ſympathy:</l>
+                  <l>Hence conflicts kindneſs; ills compaſſion move,</l>
+                  <l>Extreams diſpute themſelves into a Love:</l>
+                  <l>This match, to prove great Digbys <hi>Secret</hi> good</l>
+                  <l>Cur'd two States by the <hi>ſympathy</hi> of blood.</l>
+                  <l>Time before now has known the <hi>Brittiſh Sun,</hi>
+                     <note place="margin">Henry <hi>2.</hi>
+                     </note>
+                  </l>
+                  <l>In converſe with the Luſitanian Moon;</l>
+                  <l>Our <hi>Prince</hi> in honor of the <hi>Forraign</hi> Mayd</l>
+                  <l>Though <hi>Black</hi> himſelf, againſt the Moors ſent aide.</l>
+                  <l>Some Legends talke of <hi>Interests</hi> as neer</l>
+                  <l>As thoſe fam'd <hi>Duellers, York</hi> and <hi>Lancaster.</hi>
+                  </l>
+                  <l>Crown-Controverſies well eſpouſe and Wed</l>
+                  <l>Make beſt <hi>Convinctions</hi> in the Nuptial Bed.</l>
+               </lg>
+               <lg>
+                  <l>Thy <hi>Catharina, Charles,</hi> approacheth nigh:</l>
+                  <l>South Winds blow-warme, not from the Auſtrian Skie:</l>
+                  <l>
+                     <pb n="6" facs="tcp:46633:5"/>
+Fair Catharina, <hi>favorit</hi> of ſame,</l>
+                  <l>whoſe vertue is her <hi>Nature</hi> and her <hi>name!</hi>
+                     <note place="margin">Purity.</note>
+                  </l>
+                  <l>Since Edwards <hi>Reſormation</hi> firſt began</l>
+                  <l>We he're had ſuch a <hi>gratious</hi> Puritan!</l>
+                  <l>From whoſe preſt lips divineſt Nectar flows</l>
+                  <l>An aire of Spices with her <hi>motion</hi> goes:</l>
+                  <l>Her eyes though black, ſo quick and piercing bright.</l>
+                  <l>Sparkles like Stars through clouds, make darkneſs light:</l>
+                  <l>But her beſt Excellencies, glorys, bleſs,</l>
+                  <l>Like Heaven's, are rich <hi>inviſibilitys:</hi>
+                  </l>
+                  <l>He that hath eyes can reach a vertuous mind,</l>
+                  <l>May there fair <hi>Catharin's</hi> Beauty find:</l>
+                  <l>Shall there the greatneſs of her ſpirit ſee</l>
+                  <l>Rais'd on a <hi>Columne</hi> of Humility.</l>
+                  <l>When joys exalt the luſture of her Eye,</l>
+                  <l>Her Soul deſcends as <hi>low</hi> as Heaven is high.</l>
+                  <l>One that a glorious Cabinet views, may gueſs</l>
+                  <l>By that <hi>firſt coſt</hi> how rich the jewell is!</l>
+               </lg>
+               <lg>
+                  <l>Joyn happy payr! your <hi>Ring</hi> is richly ſet,</l>
+                  <l>But ſtill the Diamond thanks the friendly <hi>Iet:</hi>
+                  </l>
+                  <l>Mix your majeſtick Locks, thoſe myſtick <hi>bands</hi>
+                  </l>
+                  <l>At <hi>home</hi> are amorous and abroad commands:</l>
+                  <l>
+                     <hi>Black</hi> and yet <hi>lovely</hi> muſt not be denied,</l>
+                  <l>Enamour'd Heaven courts a <hi>dark-featur'd</hi> Bride,</l>
+                  <l>
+                     <pb n="9" facs="tcp:46633:5"/>
+When th' Altars Coal in flames of Incenſe glow's</l>
+                  <l>Ther's no ſuch beauty in the faireſt Roſe.</l>
+                  <l>Natures firſt Cabinet, wore this <hi>Royal Hue,</hi>
+                  </l>
+                  <l>From whence (unlockt) a <hi>world</hi> of Beauties flew:</l>
+                  <l>From whoſe rich <hi>Blackneſs</hi> ſprang the Sun, Moon, Stars,</l>
+                  <l>Fire, Aire, Earth, Sea, <hi>Eſpouſed</hi> by their Jarrs.</l>
+                  <l>Nor <hi>Nature,</hi> nor <hi>Apelles</hi> ever made</l>
+                  <l>Sun <hi>ſhine,</hi> or Picture <hi>ſmile</hi> without a ſhade!</l>
+                  <l>Beloved <hi>Black!</hi> whoſe never alterd dye,</l>
+                  <l>Gathers the opticks and <hi>unites</hi> the Eye:</l>
+                  <l>When glittering Colours in their <hi>weakneſs gay</hi>
+                  </l>
+                  <l>Make ſight by looſe <hi>Emiſſions</hi> weak as they,</l>
+               </lg>
+               <lg>
+                  <l>O may your <hi>likeneſs</hi> of complexions find</l>
+                  <l>Similitude of Vertue, Temper, mind!</l>
+                  <l>May your kind Hearts as cloſe in <hi>union</hi> come</l>
+                  <l>As nature, that admits no <hi>vacuum!</hi>
+                  </l>
+                  <l>Or when you ſever for ſhort days, or nights,</l>
+                  <l>Renew your Nuptials, meet with freſh Delights.</l>
+                  <l>
+                     <pb n="10" facs="tcp:46633:6"/>
+But can Kings fancy what they never ſaw?</l>
+                  <l>Create Love, not by ſympathy but law?</l>
+                  <l>Not to tranſcend a Poets ſphear, and tell</l>
+                  <l>How nobler Objects are inviſible;</l>
+                  <l>Princes commence not <hi>Suits</hi> like common men,</l>
+                  <l>Their <hi>leaden</hi> eyes muſt ſee and ſee agen;</l>
+                  <l>Whoſe firſt congreſs, if it fall out by night,</l>
+                  <l>No love, no faith, till the next day give light:</l>
+                  <l>And then (poor <hi>amorous moles,</hi>) look themſelves blind,</l>
+                  <l>Meet not as <hi>Rationals,</hi> but like <hi>beaſts,</hi> too kind:</l>
+                  <l>So few once <hi>fir'd,</hi> are in their <hi>ſlames</hi> diſcreet,</l>
+                  <l>Like wild <hi>ſparks,</hi> to their own <hi>Extinction</hi> meet!</l>
+               </lg>
+               <lg>
+                  <l>When Monarchs, like their <hi>Brother-ſun</hi> diſpence</l>
+                  <l>Pure rayes, ſend <hi>Spirits</hi> for intelligence:</l>
+                  <l>Court not the woman, but the Goddeſs <hi>Queen,</hi>
+                  </l>
+                  <l>Who, like his <hi>Daphne</hi> muſt be ever, green:</l>
+                  <l>Vend not their paſſions at a vulgar rate,</l>
+                  <l>
+                     <hi>Diſtance</hi> is merit, in <hi>Amours</hi> keep <hi>ſlate:</hi>
+                  </l>
+                  <l>
+                     <pb n="11" facs="tcp:46633:6"/>
+Subject not Honor to their <hi>ſoſteſt</hi> will.</l>
+                  <l>But though great <hi>Lovers,</hi> are great <hi>Princes</hi> ſtill.</l>
+                  <l>Pictures ſerve them, whoſe active fancy give</l>
+                  <l>Spirit to paint, and make <hi>dead Colours</hi> live:</l>
+                  <l>Can kiſs thoſe cheeks and lips, inſpir'd by Art</l>
+                  <l>T'expreſs the ſilent language of the heart:</l>
+                  <l>Gaze on two <hi>Starrs,</hi> till (fancy working high)</l>
+                  <l>They twinkle; Time now to lay the Picture by.</l>
+                  <l>No durty paſſion ſuch a flame controuls.</l>
+                  <l>Where two eſpouſe not <hi>Bodies</hi> but chaſt <hi>Souls!</hi>
+                  </l>
+                  <l>Angels ride poſt twixt ſuch a payr as this,</l>
+                  <l>Act their affaires, and expedite their bliſs,</l>
+                  <l>Temper the weak and ſtrong, the fair and wiſe,</l>
+                  <l>Lovers <hi>inſpir'd,</hi> mou'd by <hi>impulſe</hi> not eyes:</l>
+                  <l>If buſineſs render Love more <hi>nicely</hi> kind,</l>
+                  <l>Letters (that brighteſt imag'ry of the mind)</l>
+                  <l>From heart to heart ſo ſwift intelligence brings</l>
+                  <l>As if the incloſed <hi>Thoughts</hi> had lent them wings.</l>
+                  <l>
+                     <pb n="12" facs="tcp:46633:7"/>
+Heaven ſeals ſuch matches! If all this be true,</l>
+                  <l>Princes may Love without an <hi>interview.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sit ſtill ye <hi>floating</hi> Iſles, y'ave long wheeld round,</l>
+                  <l>Danc'd mazes long, <hi>centerd</hi> on aire not ground:</l>
+                  <l>With ſtormes, and Earthquakes long bin rent and torne.</l>
+                  <l>Yet <hi>toylings Turks</hi> have ſtill the creſcent worn:</l>
+                  <l>When your <hi>half Moon</hi> grew big, began to ſwell,</l>
+                  <l>Rebells turnd <hi>Lunaticks</hi> and madly fell.</l>
+                  <l>Now Britaine's moon is full. Her total ſumme</l>
+                  <l>Containes the <hi>fractions</hi> of all Chriſtendome:</l>
+                  <l>Let civil (but wiſe) <hi>Spain</hi> ceaſe to be kind,</l>
+                  <l>Englands Queen ſhall be <hi>treated</hi> not <hi>deſign'd;</hi>
+                  </l>
+                  <l>Not all the Mynes of <hi>India</hi> ſhould controul,</l>
+                  <l>Or <hi>Bribe</hi> the judgement of a generous ſoule:</l>
+                  <l>Reſolve to conquer firſt with ſlighter pains,</l>
+                  <l>
+                     <hi>ndias</hi> whole <hi>body,</hi> with its wealthy <hi>veins!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Bluſh, bluſh degenerous Princes, you that Mate</l>
+                  <l>Not to concern your <hi>Honour</hi> but eſtat;</l>
+                  <l>
+                     <pb n="31" facs="tcp:46633:7"/>
+Conclude how little <hi>England</hi> is afraid,</l>
+                  <l>Whoſe King has wood a <hi>perſecuted</hi> Maid:</l>
+                  <l>A Phaenix deſtin'd for the <hi>Eagles</hi> prey,</l>
+                  <l>But by the care of Providence ſnacht away:</l>
+                  <l>He, whom Heaven reſcued with ſo ſtrong a hand</l>
+                  <l>
+                     <hi>Owed</hi> a Protection to ſome tottering Land:</l>
+                  <l>An Act worthy a <hi>Martyrs</hi> ſonne, to wed</l>
+                  <l>As well his Ladys <hi>Sufferings</hi> as her bed!</l>
+                  <l>Spain could not his Infanta thus advance,</l>
+                  <l>To britains Monarch, and the King of <hi>France:</hi>
+                  </l>
+                  <l>Fortune in this has <hi>hallowed</hi> her loſt name,</l>
+                  <l>By dealing Crowns to <hi>Merit</hi> and not fame!</l>
+               </lg>
+               <lg>
+                  <l>Triumph great <hi>Heir</hi> of Portugal! To Thee</l>
+                  <l>This marriage is beyond a victory:</l>
+                  <l>Affinity with England, either ends</l>
+                  <l>Thy warrs by Power, or makes thy foes thy friends:</l>
+                  <l>Ride on brave Prince victorious, to maintain</l>
+                  <l>Thy Portugal againſt uſurping <hi>Spain;</hi>
+                  </l>
+                  <l>
+                     <pb n="16" facs="tcp:46633:8"/>
+Thoſe Enſignes <hi>ſpread,</hi> tempeſts had <hi>ſurld</hi> before</l>
+                  <l>Conquer thy priſtin conqueror, the Moor</l>
+                  <l>But <hi>few</hi> and <hi>fools,</hi> to Caſtile back return,</l>
+                  <l>And let the <hi>Proverb</hi> prove the <hi>Coyners</hi> ſcorn,</l>
+                  <l>This <hi>Match</hi> and their <hi>Recovery,</hi> declare</l>
+                  <l>Spain <hi>wiſe!</hi> what <hi>fools</hi> the Portugueſſes are!</l>
+                  <l>See the grave Spaniard well adviſ'd inclines,</l>
+                  <l>To ſave his Honour and his Silver Mines.</l>
+               </lg>
+               <lg>
+                  <l>Thou firſt <hi>Reſtorer</hi> of thy ſelf and Kings,</l>
+                  <l>Whoſe ſharper Policy prund the Eagles wings,</l>
+                  <l>Sleep great <hi>Briganza!</hi> Let the proud <hi>Bird</hi> ſoare,</l>
+                  <l>She may be <hi>blind,</hi> but thou <hi>diſthrond</hi> no more.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Haſt good</hi> Queen! <hi>England with impatience naites</hi>
+                  </l>
+                  <l>
+                     <hi>Till</hi> Charles <hi>have</hi> Tangeers <hi>and poſſeſs the</hi> Straits.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46633:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
